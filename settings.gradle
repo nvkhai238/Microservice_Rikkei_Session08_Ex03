@@ -1,0 +1,2 @@
+rootProject.name = 'session08-ex03'
+include 'appointment-service', 'doctor-service', 'patient-service', 'medical-discovery-server'
